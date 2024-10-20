@@ -40,7 +40,7 @@
 // console.log(n + result);
 
 //5.  bir array  yazin qarmasiq olsun o arrayi artan sira ile duzen program yazin
-
+//
 // let arr3 = [21, -34, 7, 12, 98, 4, -76, 8, -9];
 // let newArr3 = [];
 // let min = arr3[0];
@@ -60,7 +60,6 @@
 // console.log(newArr3);
 
 // 6. 1  den n e qeder ededlerin icindeki sade  ededleri tapan program yazin
-
 // let num = 20;
 // let count = 0;
 // for (let i = 1; i < num; i++) {
